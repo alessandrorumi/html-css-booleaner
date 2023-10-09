@@ -2,9 +2,9 @@
   margin: 0;
 }
 
-main, footer, h1 {
-  padding-left: 70px;
-  padding-right: 70px;
+main, footer, h1, .span-header, .header-date {
+  padding-left: 80px;
+  padding-right: 160px;
 }
 
 .header-images {
@@ -24,7 +24,7 @@ main, footer, h1 {
   position: absolute;
   width: 200px;
   bottom: 10px;
-  left: 10px;
+  left: 80px;
 }
 
 h1 {
