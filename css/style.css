@@ -19,10 +19,6 @@
   left: 10px;
 }
 
-span{
-  color: grey;
-}
-
 h1 {
   margin-bottom: 5px;
 }
@@ -33,4 +29,9 @@ h1 {
 
 .header-date {
   font-size: 12px;
+  color: grey;
+}
+
+.span-header {
+  color: grey;
 }
