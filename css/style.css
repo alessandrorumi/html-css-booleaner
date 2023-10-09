@@ -35,3 +35,25 @@ h1 {
 .span-header {
   color: grey;
 }
+
+ht {
+  color: white;
+}
+
+.row-blue {
+  background-color: rgb(32, 169, 229);
+}
+
+.row-lightblue {
+  background-color: rgb(177, 229, 242);
+}
+
+.custom-table {
+  table-layout: fixed;
+  width: 100%;
+}
+
+table, th, td {
+  border: transparent;
+  border-collapse: collapse;
+}
