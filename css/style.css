@@ -18,3 +18,19 @@
   bottom: 10px;
   left: 10px;
 }
+
+span{
+  color: grey;
+}
+
+h1 {
+  margin-bottom: 5px;
+}
+
+.header-author {
+  color: blue;
+}
+
+.header-date {
+  font-size: 12px;
+}
